@@ -1,0 +1,12 @@
+C:\Users\Kris\Desktop\MarsRoverResearchTool\MarsRoverResearchTool\MarsRoverResearchTool\bin\Debug\MarsRoverResearchTool.exe.config
+C:\Users\Kris\Desktop\MarsRoverResearchTool\MarsRoverResearchTool\MarsRoverResearchTool\bin\Debug\MarsRoverResearchTool.exe
+C:\Users\Kris\Desktop\MarsRoverResearchTool\MarsRoverResearchTool\MarsRoverResearchTool\bin\Debug\MarsRoverResearchTool.pdb
+C:\Users\Kris\Desktop\MarsRoverResearchTool\MarsRoverResearchTool\MarsRoverResearchTool\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Kris\Desktop\MarsRoverResearchTool\MarsRoverResearchTool\MarsRoverResearchTool\bin\Debug\Refit.dll
+C:\Users\Kris\Desktop\MarsRoverResearchTool\MarsRoverResearchTool\MarsRoverResearchTool\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Kris\Desktop\MarsRoverResearchTool\MarsRoverResearchTool\MarsRoverResearchTool\bin\Debug\Refit.xml
+C:\Users\Kris\Desktop\MarsRoverResearchTool\MarsRoverResearchTool\MarsRoverResearchTool\obj\Debug\MarsRoverResearchTool.csprojAssemblyReference.cache
+C:\Users\Kris\Desktop\MarsRoverResearchTool\MarsRoverResearchTool\MarsRoverResearchTool\obj\Debug\MarsRoverResearchTool.csproj.CoreCompileInputs.cache
+C:\Users\Kris\Desktop\MarsRoverResearchTool\MarsRoverResearchTool\MarsRoverResearchTool\obj\Debug\MarsRoverResearchTool.csproj.CopyComplete
+C:\Users\Kris\Desktop\MarsRoverResearchTool\MarsRoverResearchTool\MarsRoverResearchTool\obj\Debug\MarsRoverResearchTool.exe
+C:\Users\Kris\Desktop\MarsRoverResearchTool\MarsRoverResearchTool\MarsRoverResearchTool\obj\Debug\MarsRoverResearchTool.pdb
