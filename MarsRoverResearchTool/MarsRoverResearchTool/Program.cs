@@ -32,11 +32,12 @@ namespace MarsRoverResearchTool
                 NewNote.Note = NoteInput;
                 //my var newnote is accessing the id property of the image and storing it in newnote along with the note
                 NewNote.id = image.id;
-                
-                //returns a string
-                //read that string
-                //put that string into a list
-                //save string and the image id into a local file
+
+
+                NewNote.url = image.img_src;
+
+                //calls the OutputToFile method
+                NewNote.OutputToFile();
             }
         }
     }
